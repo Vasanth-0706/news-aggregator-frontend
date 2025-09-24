@@ -4,7 +4,7 @@
 
 import { mockNewsData } from './mockNewsData';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8083/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://backend:8080/api';
 const USE_MOCK_DATA = import.meta.env.VITE_USE_MOCK_DATA === 'true';
 
 class NewsService {
