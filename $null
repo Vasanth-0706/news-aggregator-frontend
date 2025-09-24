@@ -1,0 +1,7 @@
+curl: (7) Failed to connect to localhost port 8080 after 2240 ms: Could not connect to server
+curl: (3) URL rejected: Bad hostname
+curl: (6) Could not resolve host: if
+curl: (3) URL rejected: Bad hostname
+curl: (3) unmatched brace in URL position 1:
+{
+ ^

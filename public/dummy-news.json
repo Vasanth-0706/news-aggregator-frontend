@@ -1,0 +1,38 @@
+[
+  {
+    "source": { "name": "TechCrunch" },
+    "author": "Kyle Wiggers",
+    "title": "OpenAI debuts new text-to-video generator, Sora",
+    "description": "OpenAI today announced Sora, a new generative AI model that can create videos from text prompts.",
+    "url": "https://techcrunch.com/2024/02/15/openai-debuts-new-text-to-video-generator-sora/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/cinematic-shot-of-a-woman-in-a-snowy-breathtaking-vista-walking-through-the-snow-generated-by-sora.jpg",
+    "category": "Technology"
+  },
+  {
+    "source": { "name": "Reuters" },
+    "author": "Reuters Staff",
+    "title": "Global markets react to latest economic data",
+    "description": "Investors are closely watching inflation figures and central bank announcements this week.",
+    "url": "https://www.reuters.com/markets/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/4B6Y7ZJ3X5FJLKNWPY6F4E5D4A.jpg?auth=16e3...",
+    "category": "Politics"
+  },
+  {
+    "source": { "name": "ESPN" },
+    "author": "Jake Michaels",
+    "title": "Lakers secure narrow victory in overtime thriller",
+    "description": "A last-second shot from downtown sealed the deal in a nail-biting finish against the Celtics.",
+    "url": "https://www.espn.com/nba",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0215%2Fr1290333_1296x729_16-9.jpg",
+    "category": "Sports"
+  },
+  {
+    "source": { "name": "Variety" },
+    "author": "Zack Sharf",
+    "title": "'Dune: Part Two' early reviews praise epic scale and stunning visuals",
+    "description": "Critics are hailing the sci-fi sequel as a cinematic masterpiece ahead of its March release.",
+    "url": "https://variety.com/2024/film/news/dune-part-two-reviews-praises-1235912586/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2023/11/Dune-Part-Two-Trailer- Zendaya-Timothee-Chalamet.jpg?w=1000",
+    "category": "Entertainment"
+  }
+]
