@@ -1,6 +1,6 @@
 import React, { createContext, useState, useEffect, useCallback } from 'react';
-// Temporarily using mock service until backend auth endpoint issue is resolved
-import authService from '../services/mockAuthService';
+// Using real backend authentication service
+import authService from '../services/authService';
 
 export const AuthContext = createContext(null);
 
